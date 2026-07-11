@@ -12,19 +12,19 @@ The analysis explores salary trends, hiring demand, required skills, and compens
 
 ### Skill Job Analysis
 
-![Skill Job Analysis](images/skill-job-analysis.png)
+![Skill Job Analysis](https://github.com/danielbm98/Job-Data-Analysis-Excel/blob/main/Images/salary-analysis.png)
 
 ### Salary vs Skills
 
-![Salary vs Skills](images/salary-vs-skills.png)
+![Salary vs Skills](https://github.com/danielbm98/Job-Data-Analysis-Excel/blob/main/Images/salary-vs-skills.png)
 
 ### Salary Analysis
 
-![Salary Analysis](images/salary-analysis.png)
+![Salary Analysis](https://github.com/danielbm98/Job-Data-Analysis-Excel/blob/main/Images/skill-job-analysis.png)
 
 ### Skill Salary Analysis
 
-![Skill Salary Analysis](images/skill-salary-analysis.png)
+![Skill Salary Analysis](https://github.com/danielbm98/Job-Data-Analysis-Excel/blob/main/Images/skill-salary-analysis.png)
 
 ---
 
