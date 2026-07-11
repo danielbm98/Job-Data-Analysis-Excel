@@ -175,5 +175,7 @@ The workbook includes several custom DAX measures to support the analysis.
 
 Electronic Engineer | Data Analyst
 
+If you found this project interesting, feel free to connect with me on LinkedIn or explore my other data analytics projects on GitHub.
+
 - **GitHub:** https://github.com/danielbm98
 - **LinkedIn:** https://www.linkedin.com/in/danielbetancourtmontoya/
